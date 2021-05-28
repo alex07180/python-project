@@ -1,8 +1,5 @@
-[fwd (4).zip](https://github.com/alex07180/python-project/files/6558954/fwd.4.zip)
-[fwd (1) (1).zip](https://github.com/alex07180/python-project/files/6558955/fwd.1.1.zip)
-[fwd (1) (1).zip](https://github.com/alex07180/python-project/files/6558912/fwd.1.1.zip)
-# python-project# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
-[pythonproject.pdf](https://github.com/alex07180/python-project/files/6558906/pythonproject.pdf)
+#python-project
+# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
@@ -17,17 +14,16 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 www.shapeai.tech
-or follow SHAPEAI on:[pythonproject.pdf](https://github.com/alex07180/python-project/files/6558893/pythonproject.pdf)
-[fwd (4).zip](https://github.com/alex07180/python-project/files/6558896/fwd.4.zip)
-[fwd (1) (1).zip](https://github.com/alex07180/python-project/files/6558899/fwd.1.1.zip)
-
+or follow SHAPEAI on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href=
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
-"https://github.com/shapeai">GitHub</a>[pythonproject.pdf](https://github.com/alex07180/python-project/files/6558916/pythonproject.pdf)
+"https://github.com/shapeai">GitHub</a>
+  [pythonproject.pdf](https://github.com/alex07180/python-project/files/6559066/pythonproject.pdf)
+[fwd.zip](https://github.com/alex07180/python-project/files/6559073/fwd.zip)
+[fwd (1).zip](https://github.com/alex07180/python-project/files/6559076/fwd.1.zip)
